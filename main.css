@@ -1,3 +1,11 @@
 body{
     
 }
+.funWords{
+    color: blueviolet;
+    font-size: 22px;
+}
+#randomPart{
+    color: blueviolet;
+    font-size: 32px;
+}
