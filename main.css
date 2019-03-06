@@ -12,3 +12,9 @@ body{
 .pic{
     width: 100%;
 }
+.blue{
+    background-color: rgb(45, 45, 161);
+}
+.ltBlue{
+    background-color: rgb(142, 214, 238);
+}
