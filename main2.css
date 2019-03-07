@@ -1,0 +1,21 @@
+body{
+    
+}
+.redBack{
+    background-color: #C60D2F;
+    height: 42.5%;
+    width: 100%;
+    padding: 0;
+}
+.whiteBack{
+    background-color: #ffffff;
+    height: 42.5%;
+    width: 100%;
+    padding: 0;
+}
+.whiteBack2{
+    background-color: #ffffff;
+    height: 15%;
+    width: 100%;
+    padding: 0;
+}
